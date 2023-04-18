@@ -259,5 +259,5 @@ app.get(
 );
 
 app.listen(port, () => {
-  console.log(`Server listening on port ${port}`);
+  console.log(`Server listening on the port ${port}`);
 });
